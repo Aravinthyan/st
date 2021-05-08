@@ -1,5 +1,9 @@
 # ignore object files created
 *.o 
 
+# produced by makefiles
 config.h
 st
+
+# language server
+.ccls-cache/
